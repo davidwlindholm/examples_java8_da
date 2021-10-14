@@ -7,7 +7,7 @@ Dette repo indeholder diverse kodeeksempler til Java 8. Alt kode er licenseret u
 ## Objekt-Orientering
 
 #### PassBy
-Illustrerer forskellen på "Pass by Value" (primitive datatyper) og "Pass by Reference" (Objekter) i Java.
+Illustrerer forskellen på "Pass by Value" (primitive datatyper) og "Pass by Reference" (objekter) i Java.
 
 [Kode](https://github.com/davidwlindholm/examples_java8_da/tree/main/Objekt%20Orientering/PassBy%20(Pass%20by%20Value%20vs%20Reference))
 
