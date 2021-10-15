@@ -45,7 +45,7 @@ Eksempel på brug af KeyAdapter til at gøre KeyListenerBasic-eksemplet mindre r
 
 [Kode](https://github.com/davidwlindholm/examples_java8_da/tree/main/GUI%20(Swing)/KeyAdapterBasic)
 
-#### KeyListnerAdvanced
+#### KeyListenerAdvanced
 Eksempel på implementation af en ny KeyEventDispatcher for at omgå begrænsningerne ved KeyListener, og lytte på tastaturtryk overalt i vinduet.
 
 [Kode](https://github.com/davidwlindholm/examples_java8_da/tree/main/GUI%20(Swing)/KeyListenerAdvanced)
