@@ -25,6 +25,31 @@ En (af flere) implementationer af tabs øverst i vinduet, til skift mellem forsk
 
 [Kode](https://github.com/davidwlindholm/examples_java8_da/tree/main/GUI%20(Swing)/GeometriTabs%20(JTabbedPane))
 
+#### HejMormor
+Eksempel på brug af MouseListener til at lytte på musen og flytte en knap hver gang der forsøges at trykke på den.
+
+[Kode](https://github.com/davidwlindholm/examples_java8_da/tree/main/GUI%20(Swing)/HejMormor)
+
+#### HejMormor_Adapter
+Eksempel på brug af MouseAdapter til at gøre HejMormor-eksemplet mindre rodet.
+
+[Kode](https://github.com/davidwlindholm/examples_java8_da/tree/main/GUI%20(Swing)/HejMormor_Adapter)
+
+#### KeyListenerBasic
+Basalt eksempel på at anvende KeyListener til at lytte efter tryk på tastaturet på en given komponent i vinduet.
+
+[Kode](https://github.com/davidwlindholm/examples_java8_da/tree/main/GUI%20(Swing)/KeyListenerBasic)
+
+#### KeyAdapterBasic
+Eksempel på brug af KeyAdapter til at gøre KeyListenerBasic-eksemplet mindre rodet.
+
+[Kode](https://github.com/davidwlindholm/examples_java8_da/tree/main/GUI%20(Swing)/KeyAdapterBasic)
+
+#### KeyListnerAdvanced
+Eksempel på implementation af en ny KeyEventDispatcher for at omgå begrænsningerne ved KeyListener, og lytte på tastaturtryk overalt i vinduet.
+
+[Kode](https://github.com/davidwlindholm/examples_java8_da/tree/main/GUI%20(Swing)/KeyListenerAdvanced)
+
 #### LoadBillede
 Indsætter et billede i et GUI-element efter programmet allerede er startet.
 
