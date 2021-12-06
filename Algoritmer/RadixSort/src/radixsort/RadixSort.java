@@ -1,8 +1,7 @@
 /** 
  * © David Lindholm - me@davidlindholm.info
- * License: CC-BY-SA 4.0
- * Legal: https://creativecommons.org/licenses/by-sa/4.0/legalcode
- * Human readable: https://creativecommons.org/licenses/by-sa/4.0/
+ * License: GNU Affero General Public License v3.0
+ * Legal: https://www.gnu.org/licenses/agpl-3.0.en.html
  */
 
 package radixsort;
