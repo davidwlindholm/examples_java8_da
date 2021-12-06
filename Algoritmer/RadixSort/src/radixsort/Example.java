@@ -8,27 +8,26 @@ package radixsort;
 
 import java.util.ArrayList;
 import java.util.Arrays;
-import java.util.Collections;
 
 
 public class Example {
 
     public static void main(String[] args) {     
+        //Lav liste af heltal
         ArrayList<Integer> listToSort = new ArrayList<>(Arrays.asList(34, 776, 23, 1, 455, 233, 6));
         
-        //Test code
-        for (int num : listToSort) {
+        //Test kode:
+        for (int num : listToSort) { //Print tal før sortering
             System.out.print(num + " ");
         }
         
-        System.out.println("");
-        RadixSort rs = new RadixSort();
-        ArrayList<Integer> sortedList = rs.sort(listToSort);
+        System.out.println(""); //Linjeskift
+        ArrayList<Integer> sortedList = RadixSort.sort(listToSort); //Sorter liste
         
-        
-        for (int num : sortedList) {
+        for (int num : sortedList) { //Print tal efter sortering
             System.out.print(num + " ");
         }
+        System.out.println(""); //Linjeskift
     }
     
 }
