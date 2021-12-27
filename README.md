@@ -3,7 +3,17 @@ Dette repo indeholder diverse kodeeksempler til Java 8. Alt kode er licenseret u
 
 # Kategorier
 ## Basale Eksempler
-## Videregående Eksempler
+
+#### BasicVars
+Eksempel på erklæring og initialisering af alle de primitive datatyper i Java, såvel som den sammensatte type String.
+
+[Kode](https://github.com/davidwlindholm/examples_java8_da/tree/main/Basic/BasicVars)
+
+#### BasicArray
+Eksempel på erklæring af arrays in Java, samt hvordan man tilgår og ændrer deres data.
+
+[Kode](https://github.com/davidwlindholm/examples_java8_da/tree/main/Basic/BasicArray)
+
 ## Objekt-Orientering
 
 #### PassBy
@@ -66,3 +76,12 @@ Program der viser udseendet af de forskellige "Look and Feel"s der findes i Swin
 Eksempel på sortering med algoritmen radix sort.
 
 [Kode](https://github.com/davidwlindholm/examples_java8_da/tree/main/Algoritmer/RadixSort)
+
+## Videregående Eksempler
+
+#### GarbageCollectionRunner
+Eksempel på kald til garbage collectoren, som ellers normalt automatisk kører.
+På denne måde kan man forsøge at frigøre hukommelse, i stedet for at vente på
+at JVM'en beslutter sig for at gøre det.
+
+[Kode](https://github.com/davidwlindholm/examples_java8_da/tree/main/Advanced/GarbageCollectionRunner)
